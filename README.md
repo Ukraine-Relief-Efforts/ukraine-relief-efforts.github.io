@@ -10,4 +10,4 @@ We're compliling information in [this](https://github.com/Ukraine-Relief-Efforts
 The centralized information guide will contain information about survival, opened borders, the required documents to cross said borders. It's a global website on which all valuable information will be held for Ukrainian refugees.
 
 ## Host a Refugee
-Host a refugee aims to be a small mobile friendly web app that allows people to sign up as a host(hosts the refugee) and refugees(the hosted) to sign up to find a host in specific regions.
+Host a refugee aims to be a small mobile friendly web app that allows people to sign up as a host (hosts the refugee) and refugees (the hosted) to sign up to find a host in specific regions.
