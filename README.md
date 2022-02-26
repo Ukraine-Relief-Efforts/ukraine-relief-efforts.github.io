@@ -3,7 +3,7 @@
 ## Projects
 
 ### Information
-A collection of information about the situation.
+A compilation of information about the situation.
 
 GitHub - https://github.com/Ukraine-Relief-Efforts/information
 
