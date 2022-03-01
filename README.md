@@ -11,3 +11,10 @@ The centralized information guide will contain information about survival, opene
 
 ## Host a Refugee
 Host a refugee aims to be a small mobile friendly web app that allows people to sign up as a host (hosts the refugee) and refugees (the hosted) to sign up to find a host in specific regions.
+
+## Missing Persons
+The Missing Persons project seeks to integrate and share collected data to NPOs and agencies who can lead search efforts into the search for missing persons. 
+For example: ICMP (International Commission on Missing Persons) database. 
+
+## Missile Alerts
+The missile alerts program seeks to provide a centralized stream of notifications that alert people when to move off to a shelter before air raids occur. These messages are scraped from Telegram notifications, translated into multiple languages, then published to their own dedicated threads.
